@@ -6,3 +6,4 @@ uvicorn
 python-dotenv
 torch 
 sentence-transformers
+python-multipart
