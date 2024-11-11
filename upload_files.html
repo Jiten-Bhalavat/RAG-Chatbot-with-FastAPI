@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1>Upload PDF Files</h1>
+    <form action="http://127.0.0.1:8000/upload_files" method="post" enctype="multipart/form-data">
+        <label for="folder_name">Folder Name:</label>
+        <input type="text" id="folder_name" name="folder_name" required>
+        <br><br>
+        <label for="files">PDF Files:</label>
+        <input type="file" id="files" name="files" multiple required>
+        <br><br>
+        <input type="submit" value="Upload">
+    </form>
+</body>
+</html>

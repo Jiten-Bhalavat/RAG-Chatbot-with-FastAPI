@@ -1,0 +1,8 @@
+openai
+llama_index
+llama-index-embeddings-huggingface
+fastapi 
+uvicorn
+python-dotenv
+torch 
+sentence-transformers
