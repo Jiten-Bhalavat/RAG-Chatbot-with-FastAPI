@@ -59,4 +59,4 @@ Submit Queries via Postman:
 
 2.) Postman Interface (Submit Query)
 
-![alt text](image.png)
+![alt text](Images/image.png)
